@@ -1,0 +1,1 @@
+print(sequence (1:3))
